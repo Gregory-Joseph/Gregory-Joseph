@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gregory-Joseph
 - 👀 I’m interested in more things than I have time for
-- 🌱 I’m currently learning qmk firmware and arduino
+- 🌱 I’m currently learning qmk and arduino
 - 💞️ I’m not looking to collaborate on anything quite yet
 - 📫 Reach me at greghansen66@gmail.com
 
